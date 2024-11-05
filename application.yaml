@@ -2,7 +2,7 @@ ead:
   serviceRegistry:
     username: serviceregistry
     password: 'ead123sr'
-    auth:
+  auth:
     jwtSecret: 78E51F6B5DD34492FFA86E1456C7CE4D2D9311BC2C766E7F910C6A4068F80EA4
     jwtExpirationMs: 14400000
 
